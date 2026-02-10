@@ -6,7 +6,6 @@ This table summarizes **structural and philosophical differences** between the p
 
 | Dimension | Existing Degree Requirements | Proposed Degree Structure |
 |---------|------------------------------|---------------------------|
-| **Degree Intent** | Serves both terminal BS students and those preparing for graduate school. | Explicitly designed as a **terminal BS** emphasizing professional readiness and adaptability. |
 | **Organizing Principle** | Course-list driven with flexible electives. | Organized around **enduring CS abstractions** (algorithms, systems, data, AI, ethics). |
 | **Core Structure** | Single CS core (11 required courses). | Split into **CS Foundations** and a cohesive **Junior Core** emphasizing paradigms and integration. |
 | **Junior-Level Coherence** | Junior-level courses dispersed across core and electives. | Clearly defined **Junior Core** (Algorithms, Systems, Languages, Databases, AI). |
@@ -22,7 +21,7 @@ This table summarizes **structural and philosophical differences** between the p
 | **Ethics & Writing** | Ethics required; writing required. | **Ethics and writing preserved** as explicit pillar. |
 | **Adaptability to Change** | Emphasizes coverage of topics and tools. | Emphasizes **abstractions and paradigms** for long-term adaptability (10–15 years). |
 | **Career Preparation Model** | Preparation through coursework and optional capstone. | Preparation through **junior core integration + required experiential learning**. |
-| **Exit Requirement** | Senior exit interview. | Professional readiness demonstrated through **experiential artifact**. |
+| **Exit Requirement** | Senior exit interview. | Senior exit interview. |
 
 ---
 
