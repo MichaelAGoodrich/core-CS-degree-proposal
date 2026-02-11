@@ -13,6 +13,9 @@ The proposed degree emphasizes **enduring CS abstractions** (algorithms, systems
 - **Breadth and Depth**: Explicit requirements across four core areas plus advanced specialization
 - **Required Experiential Learning**: Capstone, internship, or research experience
 
+### Key Constraint
+- **Evolution (not Revolution) Roll Out**: Least changes possible to existing classes
+
 ## Repository Structure
 
 ### Core Documentation
