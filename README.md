@@ -76,4 +76,4 @@ Reference materials and ACM Computing Curricula alignment documentation
 
 ## Contact
 
-For questions about this proposal, contact the CS curriculum committee at BYU.
+For questions about this proposal, contact the Core CS Degree Committee at BYU.
