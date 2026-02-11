@@ -24,8 +24,10 @@ The proposed degree emphasizes **enduring CS abstractions** (algorithms, systems
 
 #### [junior-core/](junior-core/)
 Documentation for the restructured junior-level core courses (taken after CS foundations):
-- **324/** — Algorithms and Complexity
-- **330/** — Software Engineering & Design Patterns  
+- **312/** — Algorithms and Complexity
+- **324/** — Systems Programming
+- **330/** — Programming Languages
+- **340/** — Software Engineering
 - **352/** — Database Systems (including topics and schedule)
 - **370/** — Artificial Intelligence (with ACM perspective and comparison to CS 270)
 - **[draft_justification.md](junior-core/draft_justification.md)** — Rationale for junior core structure
