@@ -14,7 +14,7 @@ The proposed degree emphasizes **enduring CS abstractions** (algorithms, systems
 - **Required Experiential Learning**: Capstone, internship, or research experience
 
 ### Key Constraint
-- **Evolution (not Revolution) Roll Out**: Least changes possible to existing classes
+- **Evolutionary (not Revolutionary) Roll Out**: Least changes possible to existing classes, least impact on faculty
 
 ## Repository Structure
 
