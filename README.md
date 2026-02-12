@@ -43,8 +43,15 @@ Defines the four required breadth areas:
 - Theory/Algorithms
 - **[draft_justification.md](breadth-elective-groups/draft_justification.md)** — Rationale for breadth requirements
 
-#### [capstone/](capstone/)
-- **[Experiential_Learning_Outcomes.md](capstone/Experiential_Learning_Outcomes.md)** — Required experiential learning component (capstone, internship, or research)
+#### [experiential_learning_requirement/](experiential_learning_requirement/)
+Required experiential learning component (capstone, internship, or research):
+- **[Experiential_Learning_Outcomes.md](experiential_learning_requirement/Experiential_Learning_Outcomes.md)** — Shared learning outcomes across all experiential pathways
+- **[capstone_class/](experiential_learning_requirement/capstone_class/)** — Faculty-designed integrative projects with team-based implementation
+  - **[draft_justification.md](experiential_learning_requirement/capstone_class/draft_justification.md)** — Scalable capstone model and rationale
+- **[internship_for_credit/](experiential_learning_requirement/internship_for_credit/)** — Supervised professional experience (CS 199R)
+  - **[draft_justification.md](experiential_learning_requirement/internship_for_credit/draft_justification.md)** — Internship program justification and BYU Aims alignment
+- **[undergraduate_research/](experiential_learning_requirement/undergraduate_research/)** — Structured research experiences (CS 497R)
+  - **[draft_justification.md](experiential_learning_requirement/undergraduate_research/draft_justification.md)** — Research pathway design needs (under construction)
 
 #### [ai-across-curriculum/](ai-across-curriculum/)
 Integration of AI concepts throughout the curriculum:
