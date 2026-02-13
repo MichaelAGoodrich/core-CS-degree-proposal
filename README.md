@@ -32,6 +32,9 @@ The proposed degree emphasizes **enduring CS abstractions** (algorithms, systems
 
 ### Curriculum Components
 
+#### [internal-review/](internal-review/)
+- **[relevant_parts_of_internal_review_report.md](internal-review/relevant_parts_of_internal_review_report)** — Key lessons from the internal review document that give impetus to the purpose of the committee
+
 #### [junior-core/](junior-core/)
 Documentation for the restructured junior-level core courses (taken after CS foundations):
 - **312/** — Algorithms and Complexity
