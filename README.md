@@ -13,8 +13,15 @@ The proposed degree emphasizes **enduring CS abstractions** (algorithms, systems
 - **Breadth and Depth**: Explicit requirements across four core areas plus advanced specialization
 - **Required Experiential Learning**: Capstone, internship, or research experience
 
+### Internal Review Mandate
+```python
+#########################################
+## To be added once we have the report ##
+#########################################
+```
+
 ### Key Constraint
-- **Evolutionary (not Revolutionary) Roll Out**: Least changes possible to existing classes, least impact on faculty
+- **Evolutionary (not Revolutionary) Roll Out**: We already have a very good degree program. Improve it while making fewest changes possible to existing classes and having the least impact on faculty
 
 ## Repository Structure
 
