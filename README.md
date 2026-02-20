@@ -42,17 +42,19 @@ See [unit-review/](unit-review/) for detailed excerpts and alignment notes.
 #### [junior-core/](junior-core/)
 Documentation for the restructured junior-level core courses (taken after CS foundations):
 - **[312/](junior-core/312/)** — Algorithm Design and Analysis
-  - **[short_justification.md](junior-core/312/short_justification.md)** — Included as-is; already required with effective learning outcomes
+  - **[README.md](junior-core/312/README.md)** — Course overview and inclusion notes
 - **[324/](junior-core/324/)** — Systems Programming
-  - **[short_justification.md](junior-core/324/short_justification.md)** — Rationale for including Systems Programming
+  - **[README.md](junior-core/324/README.md)** — Course overview and supporting documents
 - **[330/](junior-core/330/)** — Programming Languages
-  - **[short_justification.md](junior-core/330/short_justification.md)** — Rationale for including Programming Languages
+  - **[README.md](junior-core/330/README.md)** — Course overview and supporting documents
 - **[340/](junior-core/340/)** — Software Design
-  - **[short_justification.md](junior-core/340/short_justification.md)** — Included as-is; already required with effective learning outcomes
+  - **[README.md](junior-core/340/README.md)** — Course overview and inclusion notes
 - **[352/](junior-core/352/)** — Database Systems (including topics and schedule)
-  - **[short_justification.md](junior-core/352/short_justification.md)** — Rationale for including Database Systems
+  - **[README.md](junior-core/352/README.md)** — Course overview and supporting documents
 - **[370/](junior-core/370/)** — Artificial Intelligence (with ACM perspective and comparison to CS 270)
-- **[short_justification.md](junior-core/short_justification.md)** — Rationale for junior core structure
+- **[README.md](junior-core/README.md)** — Overview of the junior core structure
+
+Note that the required introduction to AI is not intended to replace [integrating AI across the curriculum](ai-across-curriculum/AI_Code_Curriculum_Integration.md). Rather, it is intended to be a class that teaches several of the abstractions that are needed for students who will need to understand and use AI-based tools throughout their careers. 
 
 #### [breadth-elective-groups/](breadth-elective-groups/)
 Defines the four required breadth areas:
@@ -60,25 +62,26 @@ Defines the four required breadth areas:
 - HCI/Graphics/Multimedia
 - Systems/Software Engineering
 - Theory/Algorithms
-- **[short_justification.md](breadth-elective-groups/short_justification.md)** — Rationale for breadth requirements
+- **[README.md](breadth-elective-groups/README.md)** — Overview of breadth areas and requirement structure
 
 #### [experiential_learning_requirement/](experiential_learning_requirement/)
 Required experiential learning component (capstone, internship, or research):
 - **[Experiential_Learning_Outcomes.md](experiential_learning_requirement/Experiential_Learning_Outcomes.md)** — Shared learning outcomes across all experiential pathways
 - **[capstone_class/](experiential_learning_requirement/capstone_class/)** — Faculty-designed integrative projects with team-based implementation
-  - **[short_justification.md](experiential_learning_requirement/capstone_class/short_justification.md)** — Scalable capstone model and rationale
+  - **[README.md](experiential_learning_requirement/capstone_class/README.md)** — Capstone pathway overview
 - **[internship_for_credit/](experiential_learning_requirement/internship_for_credit/)** — Supervised professional experience (CS 199R)
-  - **[short_justification.md](experiential_learning_requirement/internship_for_credit/short_justification.md)** — Internship program justification and BYU Aims alignment
+  - **[README.md](experiential_learning_requirement/internship_for_credit/README.md)** — Internship pathway documentation and supporting materials
 - **[undergraduate_research/](experiential_learning_requirement/undergraduate_research/)** — Structured research experiences (CS 497R)
-  - **[short_justification.md](experiential_learning_requirement/undergraduate_research/short_justification.md)** — Research pathway design needs (under construction)
+  - **[README.md](experiential_learning_requirement/undergraduate_research/README.md)** — Research pathway overview
 
 #### [ai-across-curriculum/](ai-across-curriculum/)
 Integration of AI concepts throughout the curriculum:
+- **[README.md](ai-across-curriculum/README.md)** — Overview and scope of AI integration across courses
 - **[AI_Code_Curriculum_Integration.md](ai-across-curriculum/AI_Code_Curriculum_Integration.md)** — How AI concepts are woven into multiple courses
 - **[AI_and_CS_Jobs_Selected_Perspectives.md](ai-across-curriculum/AI_and_CS_Jobs_Selected_Perspectives.md)** — Industry perspectives on AI skills
 
 #### [math-classes/](math-classes/)
-- **[short_justification.md](math-classes/short_justification.md)** — Rationale for data- and computing-oriented math requirements (physics removed)
+- **[README.md](math-classes/README.md)** — Overview of math and analytical reasoning requirements
 
 #### [impact-on-existing-courses/](impact-on-existing-courses/)
 Analysis of how the proposal affects current course offerings:
@@ -86,7 +89,7 @@ Analysis of how the proposal affects current course offerings:
 - **252/** — CS 252 considerations
 - **260/** — CS 260 considerations
 - **[possible_changes_to_learning_outcomes_in_existing_classes.md](impact-on-existing-courses/possible_changes_to_learning_outcomes_in_existing_classes.md)** — Learning outcome modifications
-- **[short_justification.md](impact-on-existing-courses/short_justification.md)** — Overall rationale for course impact analysis
+- **[README.md](impact-on-existing-courses/README.md)** — Overview of impact analysis and supporting documents
 
 #### [acm-document/](acm-document/)
 Reference materials and ACM Computing Curricula alignment documentation
