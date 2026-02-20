@@ -2,12 +2,26 @@
 
 The experiential learning requirement ensures every student applies core CS knowledge in a supervised, real-world setting before graduation.
 
-## Addressing Critical Gaps
+## Addressing Critical Gaps and Building Character
 
 This requirement addresses significant gaps revealed in the 2025 Unit Review:
 - **Only 15% of students currently engage in RA opportunities** — our requirement ensures 100% of students participate in high-impact experiential learning
 - **77% of undergraduates receive mentoring** (vs. 97% of graduates) — this requirement guarantees all students receive structured mentorship
 - **40% of graduates leave without full-time job offers** — hands-on experience builds recruitability and portfolio items that directly address student concerns about converting coursework to résumé qualifications
+
+### Character Building Through Professional Experience
+More profoundly, this requirement supports **character building** by placing students in situations where:
+- Professional responsibility matters: Their work is reviewed by employers, mentors, or faculty in genuine contexts, not sandbox environments
+- Teamwork and communication are essential: Capstone projects require coordination; internships demand professional communication; research requires collaboration
+- Ethical decision-making is necessary: Real-world projects involve tradeoffs between complexity, cost, security, and user impact—decisions that shape character
+- Reflection and growth occur: Mentored experiences include explicit reflection on learning, mistakes, and professional development
+
+### Lifelong Learning Habits
+The requirement also instills habits of **lifelong learning and service** by:
+- Creating relationships with mentors (faculty, supervisors, colleagues) who model continuous learning
+- Requiring structured reflection on what was learned and how to continue learning independently
+- Placing students in professional contexts where they see scientists and engineers solving novel problems, not just practitioners executing known solutions
+- Building confidence in tackling unfamiliar technical challenges, essential for careers spanning decades of technological change
 
 ## Experiential Learning Outcomes
 

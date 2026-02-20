@@ -4,9 +4,13 @@ This folder documents the junior-level core courses that form the conceptual spi
 
 ## Focus: Durable Abstractions and Portfolio-Building
 
-The junior core courses are designed around **enduring CS abstractions**—conceptual foundations that remain relevant across technology shifts. Each course emphasizes both theoretical understanding and **practical implementation** that directly translates to professional portfolios.
+### Intellectually Enlarging
+The junior core courses are designed around **enduring CS abstractions**—conceptual foundations that remain relevant across technology shifts, not current tools that become obsolete. By studying algorithms, systems design, programming language theory, software design principles, data abstractions, and artificial intelligence fundamentals, students develop intellectual frameworks for understanding any computing system, past or future. This commitment to abstraction over tools ensures **intellectual enlargement** that serves students across entire careers.
 
-This addresses a critical finding from the 2025 Unit Review: students struggle "converting assignments in class to résumé line items" (Student Surveys). Our junior core courses are deliberately structured so that course projects create portfolio-ready artifacts that students can showcase to employers, solving the disconnect between coursework and professional readiness.
+### Professional Portfolio-Building and Academic Rigor
+Each course emphasizes both theoretical understanding and **practical implementation** that directly translates to professional portfolios. This addresses a critical finding from the 2025 Unit Review: students struggle "converting assignments in class to résumé line items" (Student Surveys). Our junior core courses are deliberately structured so that course projects create portfolio-ready artifacts that students can showcase to employers, solving the disconnect between coursework and professional readiness.
+
+Moreover, this structure ensures the degree maintains the **theoretical scope which characterizes a university education** while providing **practical experience** necessary for professional entry (as emphasized in the Unit Review, p. 6).
 
 ## Core Courses
 

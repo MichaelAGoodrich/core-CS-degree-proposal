@@ -33,6 +33,30 @@ This proposal independently converges with findings from the 2025 Unit Review on
 
 See [unit-review/](unit-review/) for detailed excerpts and alignment notes.
 
+## Alignment with BYU AIMS
+
+This proposal intentionally supports three of BYU's four educational aims through its structure and pedagogy:
+
+### Intellectually Enlarging
+By teaching enduring CS abstractions—algorithms, systems design, programming paradigms, data structures, and AI foundations—rather than ephemeral tools and frameworks, the curriculum intellectually enlarges students to think at the abstraction level. This prepares them to engage with cutting-edge technologies throughout their careers without requiring curriculum overhauls every few years.
+
+### Character Building
+The required experiential learning component (capstone, internship, or research) builds character through:
+- **Professional responsibility**: Students must deliver real value in real-world settings, not just hypothetical assignments
+- **Teamwork and communication**: Capstone projects and professional roles demand collaboration and clear articulation of technical ideas
+- **Ethical decision-making**: Real-world projects involve tradeoffs between complexity, cost, security, and user impact—decisions that shape character
+- **Integrity under pressure**: Students face authentic deadline constraints and stakeholder expectations, not artificial lab conditions
+
+### Lifelong Learning and Service
+We prepare students for careers spanning 20+ technology cycles by:
+- Teaching abstractions that remain valid across paradigm shifts, not specific tools with 5-year lifespans
+- Requiring mentored reflection on learning processes alongside technical accomplishment
+- Emphasizing breadth across diverse CS domains, helping graduates recognize when they encounter new subdisciplines and know how to learn them
+- Structuring experiential learning to build habits of collaboration, feedback-seeking, and self-assessment that sustain growth throughout careers in computing and service to the profession
+
+### Spiritually Strengthening
+While our program should support BYU's spiritual educational aims, the primary opportunity for spiritually strengthening students lies in **departmental culture and faculty engagement** rather than degree structure alone. The 2025 Unit Review identified specific opportunities for the CS department to strengthen its role in building student faith and testimony, particularly through increased faculty mentoring and intentional integration of gospel principles in classroom interactions. This proposal focuses on curricular structure and professional preparation, but department-wide initiatives addressing spiritual strengthening remain essential for fully realizing BYU's educational mission.
+
 ## Repository Structure
 
 ### Core Documentation

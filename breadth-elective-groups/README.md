@@ -24,3 +24,12 @@ This breadth-depth model directly addresses this concern by:
 An ideal breadth structure would include **no more than two or three classes per area**, selected as strong introductions for terminal B.S. students who want foundational exposure without excessive specialization. Courses that are more research-oriented in a given area should belong in the **depth pool**, not the breadth list.
 
 The **depth pool** is intended for students who want deeper preparation in a specific area and includes more research-oriented courses from the curriculum. This breadth-depth split creates a **clear, intentional breadth structure** while ensuring **specialization and depth reinforcement** through 400-level depth requirements.
+
+### Supporting Lifelong Learning
+Breadth across diverse CS domains is essential for **lifelong learning and service**. In a field where new subdisciplines emerge every few years (cloud computing, machine learning, quantum computing, etc.), students who have encountered multiple distinct CS areas are better prepared to:
+- Recognize emerging fields and understand which abstractions apply
+- Have a vocabulary for learning independently when they encounter unfamiliar specializations
+- Appreciate how different areas of CS inform and depend on each other
+- Adapt their expertise throughout their careers
+
+This breadth-depth structure balances terminal bachelor's preparation with the flexibility graduates need across decades of technological change.
