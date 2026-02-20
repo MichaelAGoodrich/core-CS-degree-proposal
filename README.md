@@ -22,7 +22,7 @@ This proposal systematically addresses each finding through explicit competency 
 These principles validate recommendations from the 2025 Unit Review for clearer competencies, stronger industry preparation, and structured professional development.
 
 ### Key Constraint
-- **Evolutionary (not Revolutionary) Roll Out**: We already have a very good degree program. Improve it while making fewest changes possible to existing classes and having the least impact on faculty. This approach aligns with the unit review's emphasis on strengthening the program while respecting the quality of existing coursework.
+- **Evolutionary (not Revolutionary) Roll Out**: The committee believes that we already have a very good degree program. The committee viewed our mandate as one where we improve the core CS degree while making as few changes as possible to existing classes and having the least impact on faculty. This approach aligns with the unit review's emphasis on strengthening the program while respecting the quality of existing coursework.
 
 ### Alignment with Unit Review
 
