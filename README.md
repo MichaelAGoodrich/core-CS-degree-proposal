@@ -4,7 +4,13 @@ This repository contains the complete documentation for a proposed restructuring
 
 ## Overview
 
-The proposed degree emphasizes **enduring CS abstractions** (algorithms, systems, data, AI, ethics) rather than short-lived tools, helping graduates remain adaptable over 10–15 years as technologies evolve. Notably, this proposal aligns closely with the 2025 Unit Review's findings concerning unclear core competencies and insufficient integration of theoretical and practical skills. Total degree hours: **74 credits**.
+The proposed degree emphasizes **enduring CS abstractions** (algorithms, systems, data, AI, ethics) rather than short-lived tools, helping graduates remain adaptable over 10–15 years as technologies evolve. Notably, this proposal directly addresses critical findings from the 2025 Unit Review:
+- Unclear core competencies and insufficient theory-practice balance
+- Only **40% of CS majors currently leave with full-time job offers**
+- Only **15% of students engage in high-impact experiential learning** (RA positions)
+- **77% of undergraduates receive mentoring** (vs. 97% of graduates)—a significant professional development gap
+
+This proposal systematically addresses each finding through explicit competency definition, integrated practical experience, and **universal access to mentored professional development**. Total degree hours: **74 credits**.
 
 ### Key Principles
 
@@ -37,7 +43,7 @@ See [unit-review/](unit-review/) for detailed excerpts and alignment notes.
 ### Curriculum Components
 
 #### [unit-review/](unit-review/)
-- **[relevant_parts_of_unit_review_report.md](unit-review/relevant_parts_of_unit_review_report.md)** — Key lessons from the unit review document that give impetus to the purpose of the committee
+- **[README.md](unit-review/README.md)** — Key lessons from the unit review document that give impetus to the purpose of the committee
 
 #### [junior-core/](junior-core/)
 Documentation for the restructured junior-level core courses (taken after CS foundations):
