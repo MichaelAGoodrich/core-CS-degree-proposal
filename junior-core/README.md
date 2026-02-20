@@ -21,4 +21,15 @@ Moreover, this structure ensures the degree maintains the **theoretical scope wh
 - [junior-core/352/](junior-core/352/) — CS 352: Database Systems
 - [junior-core/370/](junior-core/370/) — CS 370: Artificial Intelligence
 
-Each course integrates theory with hands-on practice, preparing students both for graduate study (if they choose to continue) and for strong entry into the industry with concrete, demonstrable experience.
+## Theory and Practice Integration in the Junior Core
+
+Each required junior-core course deliberately combines foundational theory with hands-on practice:
+
+- **CS 312 (Algorithms)**: Theory of computational complexity and proof techniques; practice through implementation of algorithms and analyzing real performance tradeoffs
+- **CS 324 (Systems)**: Theory of operating systems, concurrency, and network protocols; practice through systems programming in C/Linux and debugging concurrent systems
+- **CS 330 (Programming Languages)**: Theory of language design, type systems, and parsing; practice through building interpreters and implementing language features
+- **CS 340 (Software Design)**: Theory of design patterns, architecture principles, and software evolution; practice through team projects building real applications
+- **CS 352 (Database Systems)**: Theory of data models, query optimization, and consistency guarantees; practice through SQL implementation and building data systems
+- **CS 370 (Artificial Intelligence)**: Theory of search, probabilistic reasoning, and learning paradigms; practice through implementing AI algorithms and applying them to real problems
+
+This integration ensures students don't emerge as either pure theorists or practitioners without conceptual grounding—they understand *why* practices exist and *how* to apply theory.

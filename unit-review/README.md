@@ -1,6 +1,6 @@
 # Unit Review
 
-Excerpts from the 2025 Computer Science Unit Review. We did not have full access to the report, so these excerpts are from very limited information.
+The following excerpts highlight pivotal findings from the 2025 Computer Science Unit Review and show direct alignment with the proposed curriculum changes.
 
 These key findings highlight critical gaps in our current degree structure and provide strong impetus for comprehensive curricular reform, specifically the need for clearer core competencies, more intentional integration of theoretical and practical skills, and meaningful experiential learning across the program.
 

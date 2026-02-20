@@ -2,15 +2,22 @@
 
 This repository contains the complete documentation for a proposed restructuring of the Computer Science Bachelor of Science degree at BYU. The proposal shifts from a course-accumulation model to a **conceptual, abstraction-centered curriculum** designed for students entering a rapidly evolving computing profession with a terminal bachelor's degree.
 
-## Overview
+## Overview and Alignment with Unit Review
 
-The proposed degree emphasizes **enduring CS abstractions** (algorithms, systems, data, AI, ethics) rather than short-lived tools, helping graduates remain adaptable over 10–15 years as technologies evolve. Notably, this proposal directly addresses critical findings from the 2025 Unit Review:
+The proposed degree emphasizes **enduring CS abstractions** (algorithms, systems, data, AI, ethics) rather than short-lived tools, helping graduates remain adaptable over 10–15 years as technologies evolve. 
+
+The 2025 Unit Review identified critical gaps in the current degree structure:
 - Unclear core competencies and insufficient theory-practice balance
 - Only **40% of CS majors currently leave with full-time job offers**
 - Only **15% of students engage in high-impact experiential learning** (RA positions)
 - **77% of undergraduates receive mentoring** (vs. 97% of graduates)—a significant professional development gap
 
-This proposal systematically addresses each finding through explicit competency definition, integrated practical experience, and **universal access to mentored professional development**. Total degree hours: **74 credits**.
+This proposal addresses these gaps through:
+- **Clear Core Competencies**: Explicit definition through CS Foundations, Junior Core structure, and required breadth/depth areas
+- **Theory-Practice Balance**: Curriculum integrates foundational theory (CS Foundations, Junior Core) with practical experience in courses and required experiential learning (capstone, internship, or research)
+- **Structured Professional Development**: Mandatory experiential component ensures all students engage in reflection and skill-building under faculty and professional mentors
+
+Total degree hours: **74 credits**. See [unit-review/](unit-review/) for detailed excerpts and alignment notes.
 
 ### Key Principles
 
@@ -19,19 +26,8 @@ This proposal systematically addresses each finding through explicit competency 
 - **Breadth and Depth**: Explicit requirements across four core areas plus advanced specialization
 - **Required Experiential Learning**: Capstone, internship, or research experience
 
-These principles validate recommendations from the 2025 Unit Review for clearer competencies, stronger industry preparation, and structured professional development.
-
 ### Key Constraint
 - **Evolutionary (not Revolutionary) Roll Out**: The committee believes that we already have a very good degree program. The committee viewed our mandate as one where we improve the core CS degree while making as few changes as possible to existing classes and having the least impact on faculty. This approach aligns with the unit review's emphasis on strengthening the program while respecting the quality of existing coursework.
-
-### Alignment with Unit Review
-
-This proposal independently converges with findings from the 2025 Unit Review on three critical areas:
-- **Clear Core Competencies**: Explicit definition through CS Foundations, Junior Core structure, and required breadth/depth areas
-- **Theory-Practice Balance**: Curriculum balances foundational theory, which are found in the CS Foundations and Junior Core parts of the proposal, with opportunities for practice which are not only found in many of the existing classes but also in required experiential learning (capstone, internship, or research)
-- **Structured Professional Development**: Mandatory experiential component ensures all students engage in reflection and skill-building under faculty and professional mentors
-
-See [unit-review/](unit-review/) for detailed excerpts and alignment notes.
 
 ## Alignment with BYU AIMS
 
