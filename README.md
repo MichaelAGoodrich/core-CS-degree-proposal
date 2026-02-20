@@ -22,8 +22,8 @@ These principles validate recommendations from the 2025 Unit Review for clearer 
 
 This proposal independently converges with findings from the 2025 Unit Review on three critical areas:
 - **Clear Core Competencies**: Explicit definition through CS Foundations, Junior Core structure, and required breadth/depth areas
-- **Theory-Practice Balance**: Curriculum balances foundational theory with required experiential learning (capstone, internship, or research)
-- **Structured Professional Development**: Mandatory experiential component ensures all students engage in reflection and skill-building under faculty guidance
+- **Theory-Practice Balance**: Curriculum balances foundational theory, which are found in the CS Foundations and Junior Core parts of the proposal, with opportunities for practice which are not only found in many of the existing classes but also in required experiential learning (capstone, internship, or research)
+- **Structured Professional Development**: Mandatory experiential component ensures all students engage in reflection and skill-building under faculty and professional mentors
 
 See [unit-review/](unit-review/) for detailed excerpts and alignment notes.
 
@@ -31,8 +31,8 @@ See [unit-review/](unit-review/) for detailed excerpts and alignment notes.
 
 ### Core Documentation
 
-- **[CS_BS_Degree_Structure_with_Rationale.md](CS_BS_Degree_Structure_with_Rationale.md)** — Complete degree structure with visual curriculum map, credit breakdown, and philosophical rationale
-- **[Proposed_vs_Existing_CS_Degree_Summary.md](Proposed_vs_Existing_CS_Degree_Summary.md)** — Side-by-side comparison of proposed vs. existing (2023–2024) degree requirements
+- **[Proposed_Degree_Requirements.md](Proposed_Degree_Requirements.md)** — Complete degree structure with visual curriculum map, credit breakdown, and philosophical rationale
+- **[Summary_of_Changes_from_Existing_Degree.md](Summary_of_Changes_from_Existing_Degree.md)** — Side-by-side comparison of proposed vs. existing (2023–2024) degree requirements
 
 ### Curriculum Components
 
