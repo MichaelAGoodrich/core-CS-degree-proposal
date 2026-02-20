@@ -66,7 +66,7 @@ Defines the four required breadth areas:
 
 #### [experiential_learning_requirement/](experiential_learning_requirement/)
 Required experiential learning component (capstone, internship, or research):
-- **[Experiential_Learning_Outcomes.md](experiential_learning_requirement/Experiential_Learning_Outcomes.md)** — Shared learning outcomes across all experiential pathways
+- **[README.md](experiential_learning_requirement/README.md)** — Experiential learning outcomes and pathway overview
 - **[capstone_class/](experiential_learning_requirement/capstone_class/)** — Faculty-designed integrative projects with team-based implementation
   - **[README.md](experiential_learning_requirement/capstone_class/README.md)** — Capstone pathway overview
 - **[internship_for_credit/](experiential_learning_requirement/internship_for_credit/)** — Supervised professional experience (CS 199R)
