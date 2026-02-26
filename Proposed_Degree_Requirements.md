@@ -153,8 +153,7 @@ Proposed areas:
 - Internship / Co-op  
 - Research for credit  
 
-Approved courses:
-- CS 493R — Computing Competitions  
+Currently relevant courses:
 - CS 497R — Undergraduate Research  
 - CS 498R — Undergraduate Special Projects  
 
