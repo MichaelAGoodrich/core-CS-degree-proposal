@@ -133,7 +133,6 @@ The **capstone/experiential requirement intentionally sits between the junior co
 |------|------|---------|
 | STAT 121 | Introduction to Statistical Data Analysis | 3.0 |
 | STAT 240 | Probability and Inference I | 3.0 |
-| MATH 290 | Fundamentals of Mathematics | 3.0 |
 
 ---
 
