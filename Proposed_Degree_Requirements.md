@@ -133,7 +133,6 @@ The **capstone/experiential requirement intentionally sits between the junior co
 |------|------|---------|
 | STAT 121 | Introduction to Statistical Data Analysis | 3.0 |
 | STAT 240 | Probability and Inference I | 3.0 |
-| MATH 290 | Fundamentals of Mathematics | 3.0 |
 
 ---
 
@@ -154,8 +153,7 @@ Proposed areas:
 - Internship / Co-op  
 - Research for credit  
 
-Approved courses:
-- CS 493R — Computing Competitions  
+Currently relevant courses:
 - CS 497R — Undergraduate Research  
 - CS 498R — Undergraduate Special Projects  
 
