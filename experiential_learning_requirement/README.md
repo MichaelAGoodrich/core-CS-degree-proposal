@@ -36,6 +36,8 @@ At the end of the experience, an engaged and motivated student will be able to:
 - Share real experiences and self-introspection in facing and overcoming difficult, hard-to-solve problems.
 - Understand which aspects of their field of discipline they enjoy and want to pursue long-term, and in what capacity.
 
+These learning outcomes are compatible with BYU's guidelines on [experiential learning](https://experience.byu.edu/). BYU's experiential learning [framework](BYU-experiential-learning-framework.pdf) and [faculty guidelines](BYU-experiential-learning-faculty-guide.pdf) are included in the supporting material in this repo.
+
 ## Implementation Capacity and Feasibility
 
 **The Current Gap:**
