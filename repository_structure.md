@@ -52,7 +52,7 @@ Faculty feedback data and synthesis for the proposed degree:
 - **[Computer Science Degree (No Emphasis) (Responses) - Form Responses 1.xlsx](faculty_survey_results/Computer%20Science%20Degree%20(No%20Emphasis)%20(Responses)%20-%20Form%20Responses%201.xlsx)** — Raw survey export (Excel)
 - **[cs_degree_survey_summary.md](faculty_survey_results/cs_degree_survey_summary.md)** — Overall summary of support, concerns, and alignment
 - **[more_granular_summary.md](faculty_survey_results/more_granular_summary.md)** — Detailed thematic summary
-- **[top_8_strengths.md](faculty_survey_results/top_8_strengths.md)** — Ranked strengths from survey support
+- **[top_6_strengths.md](faculty_survey_results/top_6_strengths.md)** — Ranked strengths from survey support
 - **[top_6_prioritized_concerns.md](faculty_survey_results/top_6_prioritized_concerns.md)** — Prioritized concerns based on frequency and impact
 - **[top_6_prioritized_concerns_proposed_responses.md](faculty_survey_results/top_6_prioritized_concerns_proposed_responses.md)** — Prioritized concerns and responses
 
