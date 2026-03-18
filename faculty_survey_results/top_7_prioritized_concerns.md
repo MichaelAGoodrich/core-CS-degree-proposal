@@ -1,6 +1,6 @@
-# Top 8 Prioritized Concerns
+# Top 7 Prioritized Concerns
 
-This document highlights the **eight most important concerns**, based on frequency, impact, and strategic importance.
+This document highlights the **seven most important concerns**, based on frequency, impact, and strategic importance.
 
 ---
 
@@ -21,34 +21,27 @@ This document highlights the **eight most important concerns**, based on frequen
 
 ---
 
-## 3. Junior Core Balance (Systems vs Theory)
-- Perception that the core is too systems-heavy
-- Concern about insufficient emphasis on algorithms and computational thinking
-- Specific concern about importance of databases and programming languages in the core
-
----
-
-## 4. Implementation Details and Resource Planning
+## 3. Implementation Details and Resource Planning
 - Need more clarity on course content, sequencing, and ownership
 - Questions about staffing, scheduling, and sustainable delivery
 - Concern that direction is promising but implementation details are under-specified
 
 ---
 
-## 5. Mentoring Capacity and Quality Control in Experiential Learning
+## 4. Mentoring Capacity and Quality Control in Experiential Learning
 - Strong support for experiential learning, but concern about scaling mentorship
 - Risk of uneven mentoring quality across pathways
 - Need for consistent expectations, supervision, and assessment standards
 
 ---
 
-## 6. Course Selection Transparency
+## 5. Course Selection Transparency
 - Lack of clarity on how core and math courses were chosen
 - Need to explicitly communicate rationale and tradeoffs
 
 ---
 
-## 7. Enrollment Balance and Course Viability
+## 6. Enrollment Balance and Course Viability
 - Risk of uneven enrollments:
   - Overcrowded breadth courses
   - Under-enrolled depth courses
@@ -57,7 +50,7 @@ This document highlights the **eight most important concerns**, based on frequen
 
 ---
 
-## 8. Experiential Learning Credit Limit (3-Credit Cap)
+## 7. Experiential Learning Credit Limit (3-Credit Cap)
 - Concern that 3 credits may be insufficient for meaningful impact
 - Suggestions included expanded credit expectations and multi-term models
 - Seen as a practical limitation even by supporters of the requirement

@@ -4,7 +4,7 @@
 
 **Response Strategy: Important, but beyond scope of current charge**
 
-We agree that AI integration is critically important. However, the committee felt that a full redesign of the curriculum around AI is beyond the scope of the charge we were given.
+We agree that AI integration is critically important. However, the committee feels that a full redesign of the curriculum around AI is beyond the scope of the charge we were given.
 
 AI should be integrated across the curriculum, not isolated in a single course. A proposed framework for doing this is outlined in the AI-across-curriculum folder.
 
@@ -32,17 +32,7 @@ These categories will need to evolve over time based on:
 
 ---
 
-## 3. Junior Core Balance (Systems vs Theory)
-
-**Response Strategy: Needs continued discussion**
-
-We recognize concerns about the balance between systems and algorithms.
-
-The current design reflects a belief in the importance of systems foundations, but this balance may need to be revisited or further justified.
-
----
-
-## 4. Implementation Details and Resource Planning
+## 3. Implementation Details and Resource Planning
 
 **Response Strategy: Clarify phased implementation details**
 
@@ -57,7 +47,7 @@ A phased implementation document would improve confidence and reduce ambiguity.
 
 ---
 
-## 5. Mentoring Capacity and Quality Control in Experiential Learning
+## 4. Mentoring Capacity and Quality Control in Experiential Learning
 
 **Response Strategy: Build capacity with standards and staged scaling**
 
@@ -72,7 +62,7 @@ Scaling should be gradual and tied to available mentoring capacity.
 
 ---
 
-## 6. Course Selection Transparency (Core, including Math)
+## 5. Course Selection Transparency (Core, including Math)
 
 **Response Strategy: Best judgment, but more work needed**
 
@@ -87,7 +77,7 @@ More systematic documentation and justification could strengthen this aspect of 
 
 ---
 
-## 7. Enrollment Balance and Course Viability
+## 6. Enrollment Balance and Course Viability
 
 **Response Strategy: Real concern, requires top-down solution**
 
@@ -101,7 +91,7 @@ This issue should be monitored closely moving forward.
 
 ---
 
-## 8. Experiential Learning Credit Limit (3-Credit Cap)
+## 7. Experiential Learning Credit Limit (3-Credit Cap)
 
 **Response Strategy: Valid concern, phased approach**
 

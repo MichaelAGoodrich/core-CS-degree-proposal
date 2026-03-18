@@ -53,8 +53,8 @@ Faculty feedback data and synthesis for the proposed degree:
 - **[cs_degree_survey_summary.md](faculty_survey_results/cs_degree_survey_summary.md)** — Overall summary of support, concerns, and alignment
 - **[more_granular_summary.md](faculty_survey_results/more_granular_summary.md)** — Detailed thematic summary
 - **[top_8_strengths.md](faculty_survey_results/top_8_strengths.md)** — Ranked strengths from survey support
-- **[top_8_prioritized_concerns.md](faculty_survey_results/top_8_prioritized_concerns.md)** — Prioritized concerns based on frequency and impact
-- **[top_8_prioritized_concerns_proposed_responses.md](faculty_survey_results/top_8_prioritized_concerns_proposed_responses.md)** — Prioritized concerns and responses
+- **[top_7_prioritized_concerns.md](faculty_survey_results/top_7_prioritized_concerns.md)** — Prioritized concerns based on frequency and impact
+- **[top_7_prioritized_concerns_proposed_responses.md](faculty_survey_results/top_7_prioritized_concerns_proposed_responses.md)** — Prioritized concerns and responses
 
 ### [ai-across-curriculum/](ai-across-curriculum/)
 Integration of AI concepts throughout the curriculum:
