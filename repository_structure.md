@@ -40,6 +40,14 @@ Required experiential learning component (capstone, internship, or research):
 - **[README.md](experiential_learning_requirement/README.md)** — Experiential learning outcomes and pathway overview
 - **[capstone_class/](experiential_learning_requirement/capstone_class/)** — Faculty-designed integrative projects with team-based implementation
   - **[README.md](experiential_learning_requirement/capstone_class/README.md)** — Capstone pathway overview
+- **[faculty_survey_results/](experiential_learning_requirement/faculty_survey_results/)** — Faculty feedback data and synthesis for the proposed degree
+  - **[README.md](experiential_learning_requirement/faculty_survey_results/README.md)** — Overview of raw data and key findings
+  - **[Computer Science Degree (No Emphasis) (Responses) - Form Responses 1.csv](experiential_learning_requirement/faculty_survey_results/Computer%20Science%20Degree%20(No%20Emphasis)%20(Responses)%20-%20Form%20Responses%201.csv)** — Raw survey export (CSV)
+  - **[Computer Science Degree (No Emphasis) (Responses) - Form Responses 1.xlsx](experiential_learning_requirement/faculty_survey_results/Computer%20Science%20Degree%20(No%20Emphasis)%20(Responses)%20-%20Form%20Responses%201.xlsx)** — Raw survey export (Excel)
+  - **[cs_degree_survey_summary.md](experiential_learning_requirement/faculty_survey_results/cs_degree_survey_summary.md)** — Overall summary of support, concerns, and alignment
+  - **[more_granular_summary.md](experiential_learning_requirement/faculty_survey_results/more_granular_summary.md)** — Detailed thematic summary
+  - **[top_8_strengths.md](experiential_learning_requirement/faculty_survey_results/top_8_strengths.md)** — Ranked strengths from survey support
+  - **[top_8_prioritized_concerns_proposed_responses.md](experiential_learning_requirement/faculty_survey_results/top_8_prioritized_concerns_proposed_responses.md)** — Prioritized concerns and responses
 - **[internship_for_credit/](experiential_learning_requirement/internship_for_credit/)** — Supervised professional experience (CS 199R)
   - **[README.md](experiential_learning_requirement/internship_for_credit/README.md)** — Internship pathway documentation and supporting materials
 - **[undergraduate_research/](experiential_learning_requirement/undergraduate_research/)** — Structured research experiences (CS 497R)
