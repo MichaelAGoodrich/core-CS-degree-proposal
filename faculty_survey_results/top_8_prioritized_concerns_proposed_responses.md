@@ -23,12 +23,12 @@ An agentics-focused course could:
 
 **Response Strategy: Intentional but provisional structure**
 
-The current categories were based on historical enrollment trends and existing structure. These choices are somewhat arbitrary and are not intended to be permanent.
+The current categories were based on historical groups of research areas and existing structure. These choices are somewhat arbitrary and are not intended to be permanent.
 
 These categories will need to evolve over time based on:
-- Enrollment patterns
 - Faculty input
 - Changes in the field
+- Student needs
 
 ---
 
