@@ -2,6 +2,8 @@
 
 This document merges the prioritized concerns with the corresponding proposed responses into a single reference.
 
+## In No Particular Order
+
 ## 1. AI Integration in the Curriculum
 
 ### Concern
@@ -38,23 +40,23 @@ The proposed response is to treat current categories as a provisional baseline t
 - Future updates should account for student needs and enrollment realities.
 - The present structure is framed as a practical starting point rather than a final taxonomy.
 
-## 3. Implementation Details and Resource Planning
+## 3. Implementation Details, Resource Planning, and Enrollment Viability
 
 ### Concern
-The overall direction is seen as promising, but implementation details are currently under-specified.
+The overall direction is seen as promising, but implementation and enrollment planning are currently under-specified.
 
 - Faculty want clearer course-level scope and sequencing.
 - Questions remain around who will own and staff major components.
-- Respondents highlighted uncertainty about scheduling and sustainable rollout.
-- There is concern that ambiguity could weaken adoption and execution quality.
+- Respondents highlighted uncertainty about scheduling, demand balancing, and sustainable rollout.
+- There is concern that uneven enrollments could strain resources and reduce viability in some offerings.
 
 ### Response
-The proposed response is to produce a clearer phased implementation plan with explicit ownership and milestones.
+The proposed response is to pair phased implementation planning with active enrollment monitoring and coordinated adjustments.
 
 - The committee agrees that implementation specifics should be made more explicit.
 - Documentation should include sequencing and staffing plans.
 - A milestone-based rollout over the next three years is recommended.
-- Clarifying execution details is expected to improve confidence and coordination.
+- Offerings should be rebalanced as needed to maintain viability and align with realistic demand.
 
 ## 4. Mentoring Capacity and Quality Control in Experiential Learning
 
@@ -92,25 +94,7 @@ The proposed response is to preserve current selections for now while strengthen
 - Additional systematic documentation is needed to clarify reasoning.
 - Better visibility into tradeoffs is expected to improve trust and alignment.
 
-## 6. Enrollment Balance and Course Viability
-
-### Concern
-There is concern that elective structure and course mix may create enrollment imbalances and sustainability risks.
-
-- Faculty highlighted potential overcrowding in some areas and under-enrollment in others.
-- Several comments questioned long-term viability of many low-enrollment upper-level offerings.
-- Respondents noted that imbalance can strain teaching resources.
-- Better alignment with realistic demand was identified as necessary.
-
-### Response
-The proposed response is to monitor demand and make coordinated top-down adjustments to maintain viability.
-
-- The committee agrees enrollment balance is a real and ongoing risk.
-- Rebalancing offerings is identified as a likely intervention.
-- In some cases, course-level repositioning (for example, 400-level to 500-level) may help.
-- Sustained monitoring is needed to inform future structural adjustments.
-
-## 7. Experiential Learning Credit Limit (3-Credit Cap)
+## 6. Experiential Learning Credit Limit (3-Credit Cap)
 
 ### Concern
 The 3-credit cap is viewed by some as too limited to deliver the full intended impact of experiential learning.

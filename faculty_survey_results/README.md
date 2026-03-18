@@ -12,8 +12,8 @@ This folder contains raw faculty survey data and summary analyses for the propos
 - [cs_degree_survey_summary.md](cs_degree_survey_summary.md) - Overall summary of support, concerns, and BYU Aims alignment.
 - [more_granular_summary.md](more_granular_summary.md) - More detailed breakdown of results and themes.
 - [top_8_strengths.md](top_8_strengths.md) - Ranked strengths based on survey support.
-- [top_7_prioritized_concerns.md](top_7_prioritized_concerns.md) - Ranked concerns based on frequency and impact.
-- [top_7_prioritized_concerns_proposed_responses.md](top_7_prioritized_concerns_proposed_responses.md) - Prioritized concerns with proposed response strategies.
+- [top_6_prioritized_concerns.md](top_6_prioritized_concerns.md) - Ranked concerns based on frequency and impact.
+- [top_6_prioritized_concerns_proposed_responses.md](top_6_prioritized_concerns_proposed_responses.md) - Prioritized concerns with proposed response strategies.
 
 ## Top Three Strengths
 
@@ -29,7 +29,7 @@ For details, see [top_8_strengths.md](top_8_strengths.md) and [cs_degree_survey_
 2. Breadth/depth structure design
 3. Mentoring capacity and quality control in experiential learning
 
-For details, see [top_7_prioritized_concerns.md](top_7_prioritized_concerns.md), [top_7_prioritized_concerns_proposed_responses.md](top_7_prioritized_concerns_proposed_responses.md), and [more_granular_summary.md](more_granular_summary.md).
+For details, see [top_6_prioritized_concerns.md](top_6_prioritized_concerns.md), [top_6_prioritized_concerns_proposed_responses.md](top_6_prioritized_concerns_proposed_responses.md), and [more_granular_summary.md](more_granular_summary.md).
 
 ## Figures
 
