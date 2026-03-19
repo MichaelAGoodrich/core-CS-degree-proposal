@@ -35,7 +35,7 @@ There are 22 total respondents.
 ## General Observations from Weaknesses Comments
 
 ### Lack of clear rationale and coherence in design
-The curriculum lacks a clearly articulated rationale for why specific courses and structures were chosen—for example, why CS 330, CS 352, and CS 370 form the junior core, or why electives are divided into four categories—making it difficult to see how the design aligns with the stated vision.
+The curriculum lacks a clearly articulated rationale for why specific courses and structures were chosen—for example, why CS 330, CS 352, and CS 370 are in the junior core, or why electives are divided into four categories—making it difficult to see how the design aligns with the stated vision.
 
 ### Scalability, resource constraints, and consistency of student experience
 The proposed structure may not scale given current faculty capacity, particularly for mentorship-heavy components like research, internships, and capstones, making it difficult to provide all students with high-quality opportunities. As a result, experiences may vary widely in rigor and value, leading to inconsistent student outcomes.
